@@ -1,0 +1,2 @@
+# chick
+Small inventory management
